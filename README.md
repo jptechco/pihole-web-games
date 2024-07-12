@@ -1,7 +1,10 @@
 # pihole-web-games
 A list of Web Games cnames for DNS Blocking via PiHole, AdGuard Home, uBlock Origin, etc.
 
-<strong> I welcome all contributors to this project.</strong>
+LINK = Add [game-block.txt](https://github.com/jptechco/pihole-web-games/raw/main/game-block.txt) to your gravity/block list.
+
+> [!NOTE]
+>  I welcome all contributors to this project!
 
 This list is not exhaustive, but is progressively being built out as I (and my kids) discover more & more.
 
