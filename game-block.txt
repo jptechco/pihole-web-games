@@ -95,6 +95,7 @@ gamesradar.com
 girlsgogames.com
 github.io
 gulper.io
+h52304.github.io
 headsoccer.io
 hide-io.org
 hide.me
@@ -124,6 +125,7 @@ minecraft.net
 miniblox.io
 miniclip.com
 monkey-mart.io
+monkeymartgame.github.io
 moomoo.io
 mope.io
 narwhale.io
@@ -164,6 +166,7 @@ spilgames.com
 starblast.io
 starve.io
 supermario.ee
+tbg95.github.io
 tetr.io
 thefunkygibbon.net
 theheartofracing.org
