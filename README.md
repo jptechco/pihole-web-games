@@ -3,6 +3,10 @@ A list of Web Games cnames for DNS Blocking via PiHole, AdGuard Home, uBlock Ori
 
 LINK = Add [game-block.txt](https://github.com/jptechco/pihole-web-games/raw/main/game-block.txt) to your gravity/block list.
 
+If also using RegEx expressions, I have added the following:
+- github.io$
+- (.|^)reddit$)
+
 > [!NOTE]
 >  I welcome all contributors to this project!
 
