@@ -87,8 +87,11 @@ gamedex.net
 gamedistribution.com
 gameforge.com
 gameladen.com
+gamemonetize.com
 gamerant.com
 games.dk
+games.playhop.com
+games-sdk.playhop.com
 gamesgames.com
 gamesplanet.com
 gamesradar.com
@@ -128,9 +131,11 @@ monkey-mart.io
 monkeymartgame.github.io
 moomoo.io
 mope.io
+nadgames.com
 narwhale.io
 nerdchan.net
 now.gg
+onlinegames.io
 paper-io.com
 paper.io
 parade.com
@@ -190,6 +195,8 @@ wings.io
 wol.gg
 worldoftanks.com
 worldofwarcraft.com
+www.coolmathgames.com
+www.onlinegames.io
 xpmuser.github.io
 y8.com
 zombsroyale.io
