@@ -217,6 +217,7 @@ spilgames.com
 starblast.io
 starve.io
 static.playhop.com
+store.epicgames.com
 supermario.ee
 superstronggames.com
 tbg95.github.io
@@ -248,6 +249,7 @@ worldofwarcraft.com
 www.coolmathgames.com
 www.kidzsearch.com
 www.onlinegames.io
+xbox.com
 xpmuser.github.io
 y8.com
 yad.com
